@@ -37,7 +37,7 @@
             @endif
 
             <div class="max-w-6xl mx-auto sm:px-6 lg:px-8">
-                <iframe src="https://pickerwheel.com/emb/?choices=Jan,Feb,Mar,Apr&title=Shihlin&mute=false&confetti=true" width="100%" height="550px" scrolling="no" frameborder="0"></iframe>
+                <p>Halo</p>
             </div>
         </div>
     </body>
